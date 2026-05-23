@@ -1,7 +1,6 @@
 # Hi, I'm Barbara 👋
 
-Data Analyst with 4+ years in fintech & crypto operations  
-Buenos Aires, Argentina 🇦🇷
+Data Analyst with 4+ years in fintech & crypto operations
 
 ---
 
