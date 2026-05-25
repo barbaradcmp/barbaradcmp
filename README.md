@@ -46,4 +46,4 @@ Live dashboard tracking my 12-month DE learning journey.
 ### 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-barbaramp-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/barbaramp)
-![Always learning](https://img.shields.io/badge/Always-learning-brightgreen?style=flat)
+[![Always learning](https://img.shields.io/badge/Always-learning-brightgreen?style=flat)](mailto:barbaramarquezprada@gmail.com)
