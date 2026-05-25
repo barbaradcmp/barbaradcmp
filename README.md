@@ -1,6 +1,6 @@
 ## Hi, I'm Barbara 👋
 
-Data Analyst → Data Engineer · Fintech & Crypto · Buenos Aires
+Data Analyst → Data Engineer · Fintech & Crypto
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
